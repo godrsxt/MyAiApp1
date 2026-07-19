@@ -1,0 +1,59 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS files
+*.log
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Generated files
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Java/.gradle
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Kotlin
+*.kt.metadata
+
+# Signed artifacts
+*.jks
+*.keystore
+
+# External native build folder
+.cxx/
+
+# Google Services (e.g., google-services.json)
+# google-services.json
+
+# Firebase
+# firebase-crashlytics-build.properties
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output/**/*.txt
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
